@@ -7,13 +7,13 @@ on:
 env:
   APPNAME: mapboxsearch
   APPLICATIONPATH: Application
-  HOSTINGPLAN: mapboxsearch
+  HOSTINGPLAN: linuxplan
   DOCKERFILEPATH: "Application"
   REGISTRYSKU: "Standard"
-  REGISTRYNAME: "mapboxsearchacr"
+  REGISTRYNAME: "eduuhregistry"
   REGISTRYLOCATION: "South Central US"
   IMAGENAME: "mapboxsearchb81f"
-  RESOURCEGROUPNAME: mapboxsearch-rg
+  RESOURCEGROUPNAME: dev-rg
   LOCATION: South Central US
   APPINSIGHTSLOCATION: South Central US
   SUBSCRIPTIONID: 02132eba-3d9c-43e3-8c8e-dac23aa0ae8c
