@@ -7,7 +7,7 @@ on:
 env:
   APPNAME: mapboxsearch
   APPLICATIONPATH: Application
-  HOSTINGPLAN: linuxplan
+  HOSTINGPLAN: applicationplan
   DOCKERFILEPATH: "Application"
   REGISTRYSKU: "Standard"
   REGISTRYNAME: "eduuhregistry"
