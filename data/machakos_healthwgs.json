@@ -1,0 +1,2686 @@
+[
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 12.0,
+        "F_NAME": "GIATHANINI DISP",
+        "HMIS": 314.0,
+        "Province": "CENTRAL",
+        "District": "THIKA",
+        "Division": "KAKUZI",
+        "LOCATION": "ITHANGA",
+        "Sub_Locati": "GIATHANINI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -0.94231,
+        "Longitude": 37.322321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [313314.565431880066171, 9895801.379352502524853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 1.0,
+        "F_NAME": "BISHOP U. KIOKO CATHOLIC HOSPITAL",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "EASTLEIGH",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 1.0,
+        "Agency": "MISS",
+        "Latitude": -1.51643,
+        "Longitude": 37.26928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [307451.752589443000033, 9832311.551811419427395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 2.0,
+        "F_NAME": "COMBONI DISP",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "NDITHINI",
+        "LOCATION": "NDITHINI",
+        "Sub_Locati": "NDITHINI(NDITHINI)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -0.930548,
+        "Longitude": 37.3367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [314914.440366388589609, 9897102.756272995844483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 3.0,
+        "F_NAME": "FRANCISCAN CONVENT HOSPITAL",
+        "HMIS": 3890.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANGUNDO",
+        "Sub_Locati": "MAIUNI",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 1.0,
+        "Agency": "MISS",
+        "Latitude": -1.298303,
+        "Longitude": 37.359084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [317428.592118825414218, 9856439.01500809378922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 5.0,
+        "F_NAME": "IKALASA MISS. DISP",
+        "HMIS": 2872.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MAVOKO",
+        "LOCATION": "LUKENYA",
+        "Sub_Locati": "MATHATANI",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.53,
+        "Longitude": 37.07
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [285274.548851044266485, 9830792.036240965127945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 6.0,
+        "F_NAME": "IKOMBE DISP",
+        "HMIS": 1776.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "IKOMBE",
+        "Sub_Locati": "IKOMBE",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.27874,
+        "Longitude": 37.6629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [351237.471879176329821, 9858621.830641565844417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 7.0,
+        "F_NAME": "ITHEANI DISP",
+        "HMIS": 939.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "KAEWA",
+        "Sub_Locati": "KAUTI(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.44712,
+        "Longitude": 37.3573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [317241.351659544627182, 9839983.240747541189194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 8.0,
+        "F_NAME": "ITUNDUIMUNI DISP",
+        "HMIS": 971.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "IKAATINI",
+        "Sub_Locati": "IKAATINI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.071242,
+        "Longitude": 37.532362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [336699.021415073890239, 9881556.325675833970308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 9.0,
+        "F_NAME": "KAANI DISP",
+        "HMIS": 940.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "IVETI",
+        "Sub_Locati": "KAANI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.50667,
+        "Longitude": 37.3638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [317969.555424196470995, 9833398.956147870048881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 10.0,
+        "F_NAME": "KABAA MISSION DISP",
+        "HMIS": 941.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MBIUNI",
+        "Sub_Locati": "KABAA",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.2286,
+        "Longitude": 37.4056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [322600.683124419534579, 9864149.642137536779046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 11.0,
+        "F_NAME": "KAKUYUNI DISP",
+        "HMIS": 943.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANZALU",
+        "Sub_Locati": "KIKAMBUANI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.3012,
+        "Longitude": 37.3853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [320346.421657048515044, 9856120.558533698320389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 12.0,
+        "F_NAME": "KAKUYUNI MISS. DISP",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KAKUYUNI",
+        "Sub_Locati": "KIVILINGUNI",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.362005,
+        "Longitude": 37.346832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316069.751632107654586, 9849394.155071552842855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 13.0,
+        "F_NAME": "KALALA DISP",
+        "HMIS": 4348.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "KIBAUNI",
+        "Sub_Locati": "KILALA(MACHAKOS)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.582363,
+        "Longitude": 37.652325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [350080.421389570110478, 9825052.203670185059309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 14.0,
+        "F_NAME": "KALAMA DISP",
+        "HMIS": 944.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KALAMA",
+        "LOCATION": "KALAMA",
+        "Sub_Locati": "NZIUNI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.602323,
+        "Longitude": 37.362323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [317813.394837651168928, 9822821.88098874874413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 15.0,
+        "F_NAME": "KALANDINI DISP",
+        "HMIS": 4267.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "KALANDINI",
+        "Sub_Locati": "KALANDINI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.238,
+        "Longitude": 37.286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [309290.324109388922807, 9863101.944672262296081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 16.0,
+        "F_NAME": "KAMBUSU DISP",
+        "HMIS": 4269.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "MATUNGULU",
+        "Sub_Locati": "KAMBUSU",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.232352,
+        "Longitude": 37.362325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [317784.686586906202137, 9863731.847569493576884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 17.0,
+        "F_NAME": "KANGUNDO HOSPITAL",
+        "HMIS": 1037.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANGUNDO",
+        "Sub_Locati": "ISINGA",
+        "Spatial_Re": "HD MAPS",
+        "Facility_T": 1.0,
+        "Agency": "MOH",
+        "Latitude": -1.28944,
+        "Longitude": 37.3445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [315804.856922105478588, 9857418.001020455732942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 18.0,
+        "F_NAME": "KANZALU (MISYANI) DISP",
+        "HMIS": 993.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MBIUNI",
+        "Sub_Locati": "KATITU(MWALA)",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.23,
+        "Longitude": 37.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [318638.715980653185397, 9863992.44530026987195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 19.0,
+        "F_NAME": "KANZALU (MISYANI) MISSION HEALTH CENTRE",
+        "HMIS": 2579.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANZALU",
+        "Sub_Locati": "MBILINI(KANGUNDO)",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 3.0,
+        "Agency": "MISS",
+        "Latitude": -1.28,
+        "Longitude": 37.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [318642.161860423861071, 9858463.666276447474957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 20.0,
+        "F_NAME": "KATANGI DISP",
+        "HMIS": 4270.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "KATANGI",
+        "Sub_Locati": "KATANGI",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.404542,
+        "Longitude": 37.688071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [354045.891829165979289, 9844714.63193042948842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 21.0,
+        "F_NAME": "KATANGI HEALTH CENTRE",
+        "HMIS": 1021.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "KATANGI",
+        "Sub_Locati": "KATANGI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.39932,
+        "Longitude": 37.6764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [352746.917588000767864, 9845291.245961133390665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 22.0,
+        "F_NAME": "KATHEKA DISP",
+        "HMIS": 951.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MBIUNI",
+        "Sub_Locati": "ULAANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.176,
+        "Longitude": 37.353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316743.09184205258498, 9869962.413709620013833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 23.0,
+        "F_NAME": "KATHIANI HOSPITAL",
+        "HMIS": 1038.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "KATHIANI",
+        "Sub_Locati": "KATHIANI(MACHAKOS)",
+        "Spatial_Re": "HD MAPS",
+        "Facility_T": 1.0,
+        "Agency": "MOH",
+        "Latitude": -1.41667,
+        "Longitude": 37.3291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [314100.618219191906974, 9843348.048861445859075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 24.0,
+        "F_NAME": "KATULANI DISP",
+        "HMIS": 954.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "KIBAUNI",
+        "Sub_Locati": "ITUMBULE",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.53005,
+        "Longitude": 37.6345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [348093.393480986705981, 9830834.758984951302409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 25.0,
+        "F_NAME": "KATUMANI DISP",
+        "HMIS": 3564.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "KIIMA KIMWE",
+        "Sub_Locati": "KATOLONI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.542321,
+        "Longitude": 37.253113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [305654.893743243359495, 9829447.014824524521828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 26.0,
+        "F_NAME": "KAVIANI HEALTH CENTRE",
+        "HMIS": 1022.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "IVETI",
+        "Sub_Locati": "KALILUNI(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.4753,
+        "Longitude": 37.2992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [310777.916634190711193, 9836862.337665488943458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 27.0,
+        "F_NAME": "KIANZAVE DISP",
+        "HMIS": 956.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "KYANZAVI",
+        "Sub_Locati": "KIANZABE",
+        "Spatial_Re": "SUBLOC CENTROID",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.183136,
+        "Longitude": 37.273559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [307901.782258752034977, 9869167.963913192972541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 28.0,
+        "F_NAME": "KIKESA DISP",
+        "HMIS": 3563.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "KINYAATA",
+        "Sub_Locati": "MAKUTANO(MACHA)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.24798,
+        "Longitude": 37.6013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [344380.833907978783827, 9862019.11775129288435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 29.0,
+        "F_NAME": "KIMITI DISP",
+        "HMIS": 4347.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "NGULUNI",
+        "Sub_Locati": "NGULUNI(MACHAKOS)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.283232,
+        "Longitude": 37.282325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [308884.598876237287186, 9858099.900142600759864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 30.0,
+        "F_NAME": "KIMUTWA SHC",
+        "HMIS": 1047.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "KIMUTWA",
+        "Sub_Locati": "KIMUTWA",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.613212,
+        "Longitude": 37.263212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [306785.322114635258913, 9821608.669483330100775]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 31.0,
+        "F_NAME": "KINANIE DISP",
+        "HMIS": 4463.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MAVOKO",
+        "LOCATION": "LUKENYA",
+        "Sub_Locati": "KINANIE",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.412133,
+        "Longitude": 37.061235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [284287.682172109605744, 9843826.590181354433298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 32.0,
+        "F_NAME": "KINYATA DISP",
+        "HMIS": 963.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "KINYAATA",
+        "Sub_Locati": "KINYAATA",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.33411,
+        "Longitude": 37.6395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [348636.871074389782734, 9852498.64622320048511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 33.0,
+        "F_NAME": "KISIKI HEALTH CENTRE",
+        "HMIS": 966.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MAVOLONI",
+        "Sub_Locati": "KWANDOLO",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.05604,
+        "Longitude": 37.4413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [326563.454262557148468, 9883232.229802818968892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 34.0,
+        "F_NAME": "KITANGANI DISP",
+        "HMIS": 4701.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "KATHEKA KAI",
+        "Sub_Locati": "KITANGA",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.512321,
+        "Longitude": 37.172321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [296660.782362334197387, 9832757.085048481822014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 35.0,
+        "F_NAME": "KITETA DISP",
+        "HMIS": 967.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "IKAATINI",
+        "Sub_Locati": "ITUNDUIMUNI",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.05,
+        "Longitude": 37.53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [336435.033042395138182, 9883904.864613171666861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 36.0,
+        "F_NAME": "KITHEUNI DISP",
+        "HMIS": 2411.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "KINYAATA",
+        "Sub_Locati": "MAKUTANO(MACHA)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.29104,
+        "Longitude": 37.5964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [343838.135565868520644, 9857257.943312836810946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 37.0,
+        "F_NAME": "KITHIMANI DISP",
+        "HMIS": 968.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "KITHIMANI",
+        "Sub_Locati": "KITHENDU",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.17214,
+        "Longitude": 37.4689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [329641.920010000700131, 9870396.558909866958857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 38.0,
+        "F_NAME": "KITHIOKO HEALTH CENTRE",
+        "HMIS": 969.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "KITHYOKO",
+        "Sub_Locati": "KITHYOKO",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.0745,
+        "Longitude": 37.7859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [364914.493959106737748, 9881208.483434285968542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 39.0,
+        "F_NAME": "KITUNDU DISP",
+        "HMIS": 972.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MAVOLONI",
+        "Sub_Locati": "KWANDOLO",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.07,
+        "Longitude": 37.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [330871.392561297630891, 9881690.811884790658951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 40.0,
+        "F_NAME": "KIVAA DISP",
+        "HMIS": 973.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "KIVAA",
+        "Sub_Locati": "KIVAA",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -0.803821,
+        "Longitude": 37.6998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [355321.939052197500132, 9911130.536860138177872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 41.0,
+        "F_NAME": "KIVANI DISP",
+        "HMIS": 975.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KAKUYUNI",
+        "Sub_Locati": "KYEVALUKI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.41624,
+        "Longitude": 37.357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [317205.518833016220015, 9843397.817299084737897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 42.0,
+        "F_NAME": "KOLA DISP",
+        "HMIS": 976.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KALAMA",
+        "LOCATION": "KALAMA",
+        "Sub_Locati": "KIITINI",
+        "Spatial_Re": "GPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.70429,
+        "Longitude": 37.35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316451.489654409349896, 9811545.570396218448877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 44.0,
+        "F_NAME": "KYAWANGO HEALTH CENTRE",
+        "HMIS": 980.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MWALA",
+        "Sub_Locati": "KYAWANGO(MWALA)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.30981,
+        "Longitude": 37.4961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [332677.693047555861995, 9855176.182429399341345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 45.0,
+        "F_NAME": "KYELENI DISP",
+        "HMIS": 981.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MWALA",
+        "Sub_Locati": "KYAWANGO(MWALA)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.312326,
+        "Longitude": 37.502321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [333370.160181793849915, 9854898.40640814602375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 46.0,
+        "F_NAME": "KYONDONI DISP",
+        "HMIS": 4268.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "KIVAA",
+        "Sub_Locati": "KYONDONI(MACHA)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -0.841232,
+        "Longitude": 37.792326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [365620.494214016303886, 9906997.726269617676735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 48.0,
+        "F_NAME": "MACHAKOS APPROVED SCHOOL DISP",
+        "HMIS": 934.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "MJINI(MACHAKOS)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.513232,
+        "Longitude": 37.263212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [306776.176743191259447, 9832664.651776436716318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 49.0,
+        "F_NAME": "MACHAKOS DISTRICT HOSPITAL",
+        "HMIS": 1040.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUMBUNI",
+        "Sub_Locati": "UPPER KIANDANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 1.0,
+        "Agency": "MOH",
+        "Latitude": -1.502321,
+        "Longitude": 37.263232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [306777.439851089729927, 9833871.212512778118253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 51.0,
+        "F_NAME": "MANANJA DISP",
+        "HMIS": 248.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "NDITHINI",
+        "LOCATION": "MANANJA",
+        "Sub_Locati": "MANANJA",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -0.853262,
+        "Longitude": 37.263235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [306733.040072935749777, 9905645.211195545271039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 52.0,
+        "F_NAME": "MANGO DISP",
+        "HMIS": 4324.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MWALA",
+        "Sub_Locati": "MANGO(MACHAKOS)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.39382,
+        "Longitude": 37.4256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [324838.020273461006582, 9845882.156015455722809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 53.0,
+        "F_NAME": "MASII HEALTH CENTRE",
+        "HMIS": 1025.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MASII",
+        "Sub_Locati": "MBAANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.45878,
+        "Longitude": 37.4409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [326545.533165357424878, 9838700.538624223321676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 54.0,
+        "F_NAME": "MASINGA DISP",
+        "HMIS": 987.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "MASINGA",
+        "Sub_Locati": "MUSUMAA",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -0.930548,
+        "Longitude": 37.6259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [347102.355277620314155, 9897116.615688709542155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 55.0,
+        "F_NAME": "MATUNGULU DISP",
+        "HMIS": 988.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "TALA",
+        "Sub_Locati": "KYAUME",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.261233,
+        "Longitude": 37.332325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [314447.830828701262362, 9860536.181725395843387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 56.0,
+        "F_NAME": "MATUU MISSION DISP",
+        "HMIS": 3951.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MATUU",
+        "Sub_Locati": "MATUU(YATTA)",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.142871,
+        "Longitude": 37.546969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [338328.545119274756871, 9873637.352255836129189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 57.0,
+        "F_NAME": "MATUU RHDC",
+        "HMIS": 1044.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MATUU",
+        "Sub_Locati": "MATUU(YATTA)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.13356,
+        "Longitude": 37.5545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [339166.144933516043238, 9874667.254080740734935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 58.0,
+        "F_NAME": "MAVOLONI DISP",
+        "HMIS": 3627.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MAVOLONI",
+        "Sub_Locati": "MAVOLONI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.078,
+        "Longitude": 37.417
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [323860.155914650065824, 9880802.682291878387332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 59.0,
+        "F_NAME": "MBEMBANI DISP",
+        "HMIS": 2461.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "IKAATINI",
+        "Sub_Locati": "ITUNDUIMUNI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.00437,
+        "Longitude": 37.5582
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [339571.20655001886189, 9888951.435625636950135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 60.0,
+        "F_NAME": "MBIUNI SUB-HEALTH CENTRE",
+        "HMIS": 991.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MBIUNI",
+        "Sub_Locati": "MBIUNI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.24029,
+        "Longitude": 37.3933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [321232.557545861869585, 9862856.208581656217575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 61.0,
+        "F_NAME": "MILAANI DISP",
+        "HMIS": 4460.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "NDITHINI",
+        "LOCATION": "NDITHINI",
+        "Sub_Locati": "MILAANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -0.882326,
+        "Longitude": 37.412326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [323329.689232088509016, 9902438.688702730461955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 62.0,
+        "F_NAME": "MISYANI DISP",
+        "HMIS": 4707.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANZALU",
+        "Sub_Locati": "MBILINI(KANGUNDO)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.27843,
+        "Longitude": 37.373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [318975.92954792798264, 9858637.481750350445509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 63.0,
+        "F_NAME": "MITABONI H C",
+        "HMIS": 1029.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "MITABONI",
+        "Sub_Locati": "MITABONI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.362324,
+        "Longitude": 37.232325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [303325.879116304509807, 9849349.833460716530681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 64.0,
+        "F_NAME": "MITAMBONI CATHOLIC DISP",
+        "HMIS": 3626.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "MIU",
+        "Sub_Locati": "UTITHINI(YATHUI)",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.496457,
+        "Longitude": 37.52196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [335568.535613081883639, 9834540.764446035027504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 65.0,
+        "F_NAME": "MIU DISP",
+        "HMIS": 994.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "MIU",
+        "Sub_Locati": "KALAMBA(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.5362,
+        "Longitude": 37.5853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [342619.433645218610764, 9830151.238807495683432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 66.0,
+        "F_NAME": "MIUMBUNI DISP",
+        "HMIS": 2439.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "MITABONI",
+        "Sub_Locati": "MIUMBUNI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.35287,
+        "Longitude": 37.2869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [309399.08221034554299, 9850399.648085609078407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 0.0,
+        "F_NAME": null,
+        "HMIS": 0.0,
+        "Province": null,
+        "District": null,
+        "Division": null,
+        "LOCATION": null,
+        "Sub_Locati": null,
+        "Spatial_Re": "GPS",
+        "Facility_T": 1.0,
+        "Agency": "MISS",
+        "Latitude": -1.7041,
+        "Longitude": 37.35278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316760.808836220821831, 9811566.844809485599399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 67.0,
+        "F_NAME": "MUA HILLS DISP",
+        "HMIS": 995.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUA HILLS",
+        "Sub_Locati": "MUA HILLS",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.432321,
+        "Longitude": 37.212321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [301105.373577709891833, 9841607.584488265216351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 68.0,
+        "F_NAME": "MULALA DISP",
+        "HMIS": 998.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "KITHIMANI",
+        "Sub_Locati": "KAMBI YA NDEKE",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.2,
+        "Longitude": 37.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [330878.947811118210666, 9867316.761276764795184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 69.0,
+        "F_NAME": "MUMBUNI HEALTH CENTRE",
+        "HMIS": 999.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MBIUNI",
+        "Sub_Locati": "MUMBUNI(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.27536,
+        "Longitude": 37.4438
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [326855.101310024154373, 9858981.821278618648648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 70.0,
+        "F_NAME": "MUTHESYA DISP",
+        "HMIS": 3387.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "NDITHINI",
+        "LOCATION": "MUTHESYA",
+        "Sub_Locati": "MUTHESYA",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -0.982325,
+        "Longitude": 37.392327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [321108.742261511506513, 9891380.429590683430433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 71.0,
+        "F_NAME": "MUTHETHENI CATHOLIC DISP",
+        "HMIS": 1000.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "MIU",
+        "Sub_Locati": "UTITHINI(YATHUI)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.50483,
+        "Longitude": 37.5392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [337487.518580169184133, 9833616.272627454251051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 72.0,
+        "F_NAME": "MUTHETHENI HEALTH CENTRE",
+        "HMIS": 1030.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "MIU",
+        "Sub_Locati": "UTITHINI(YATHUI)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.49991,
+        "Longitude": 37.5379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [337342.499340931302868, 9834160.1653494220227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 73.0,
+        "F_NAME": "MUTITU DISP",
+        "HMIS": 1002.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUTITUNI",
+        "Sub_Locati": "MUTITUNI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.442132,
+        "Longitude": 37.253232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [305659.338172269053757, 9840526.171942412853241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 74.0,
+        "F_NAME": "MUUSINI DISP",
+        "HMIS": 4459.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANGUNDO",
+        "Sub_Locati": "MUISUNI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.312326,
+        "Longitude": 37.352321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316676.935835982847493, 9854887.909760547801852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 75.0,
+        "F_NAME": "MWALA RHDC",
+        "HMIS": 1045.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MWALA",
+        "Sub_Locati": "MATHUNTHINI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.35103,
+        "Longitude": 37.4715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [329942.899175706552342, 9850616.822000188753009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 76.0,
+        "F_NAME": "NDALANI DISP",
+        "HMIS": 1005.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "NDALANI",
+        "Sub_Locati": "KIVINGONI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.04497,
+        "Longitude": 37.5029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [333418.701645163353533, 9884459.592205932363868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 77.0,
+        "F_NAME": "NDITHINI MISSION DISP",
+        "HMIS": 1006.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "NDITHINI",
+        "LOCATION": "NDITHINI",
+        "Sub_Locati": "NDITHINI(NDITHINI)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -0.921935,
+        "Longitude": 37.3306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [314235.014385809074156, 9898054.84001762419939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 78.0,
+        "F_NAME": "NDONYO SABUK DISP",
+        "HMIS": 1007.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "KYANZAVI",
+        "Sub_Locati": "KIANZABE",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.182325,
+        "Longitude": 37.263233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [306752.416261638747528, 9869256.928175233304501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 79.0,
+        "F_NAME": "NGELANI AIC DISP",
+        "HMIS": 1009.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "MITABONI",
+        "Sub_Locati": "MITABONI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.38609,
+        "Longitude": 37.2253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [302545.969237847719342, 9846721.118725195527077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 80.0,
+        "F_NAME": "NGOLENI DISP",
+        "HMIS": 2577.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "KATHIANI",
+        "Sub_Locati": "NGOLENI",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.39901,
+        "Longitude": 37.29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [309747.751462889485992, 9845297.720788123086095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 81.0,
+        "F_NAME": "NGULUNI DISP",
+        "HMIS": 1010.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "NGULUNI",
+        "Sub_Locati": "NGULUNI(MACHAKOS)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.312325,
+        "Longitude": 37.282313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [308885.448360775713809, 9854882.778200076892972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 82.0,
+        "F_NAME": "NYS MAVOLONI DISP",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MAVOLONI",
+        "Sub_Locati": "MAVOLONI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.093235,
+        "Longitude": 37.401235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [322106.424961051903665, 9879117.174421133473516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 83.0,
+        "F_NAME": "NYS YATTA DISP",
+        "HMIS": 1018.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "KITHIMANI",
+        "Sub_Locati": "KITHIMANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.162533,
+        "Longitude": 37.432326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [325570.906114642100874, 9871456.573210224509239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 84.0,
+        "F_NAME": "SENGANI DISP",
+        "HMIS": 4266.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "TALA",
+        "Sub_Locati": "SENGANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.25663,
+        "Longitude": 37.3248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [313610.002788110869005, 9861044.634869661182165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 86.0,
+        "F_NAME": "ST. THERESA THATHA DISP",
+        "HMIS": 1033.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "KITHYOKO",
+        "Sub_Locati": "THATHA(MACHAKOS)",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.019693,
+        "Longitude": 37.78443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [364748.561819661175832, 9887267.630805110558867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 88.0,
+        "F_NAME": "TALA (SDA) HOSPITAL",
+        "HMIS": 3418.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "TALA",
+        "Sub_Locati": "KYAUME",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 1.0,
+        "Agency": "MISS",
+        "Latitude": -1.266418,
+        "Longitude": 37.321387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [313230.846773300901987, 9859962.050481850281358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 89.0,
+        "F_NAME": "THATHA DISP",
+        "HMIS": 3388.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "KITHYOKO",
+        "Sub_Locati": "THATHA(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MISS",
+        "Latitude": -1.02898,
+        "Longitude": 37.7736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [363543.761165933741722, 9886240.441217292100191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 90.0,
+        "F_NAME": "THINU H C",
+        "HMIS": 1034.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "MITABONI",
+        "Sub_Locati": "THINU",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.421233,
+        "Longitude": 37.272132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [307761.003617374808528, 9842838.81607454828918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 91.0,
+        "F_NAME": "TULILA DISP",
+        "HMIS": 2502.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "KIBAUNI",
+        "Sub_Locati": "KILALA(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 4.0,
+        "Agency": "MOH",
+        "Latitude": -1.59588,
+        "Longitude": 37.6536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [350223.256718696444295, 9823557.834864081814885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 92.0,
+        "F_NAME": "WAMUNYU HEALTH CENTRE",
+        "HMIS": 1017.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "WAMUNYU",
+        "Sub_Locati": "KAMBITI(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3.0,
+        "Agency": "MOH",
+        "Latitude": -1.40332,
+        "Longitude": 37.5619
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [340006.257448717136867, 9844841.483027888461947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 93.0,
+        "F_NAME": "KENYA MEAT COMMISSION DISP",
+        "HMIS": 3389.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MAVOKO",
+        "LOCATION": "SETTLED AREA",
+        "Sub_Locati": "ATHI RIVER TOWNSHIP",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 9.0,
+        "Agency": "OTHER MIN",
+        "Latitude": -1.4513,
+        "Longitude": 36.9755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [274748.487773579370696, 9839486.576845049858093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 94.0,
+        "F_NAME": "PORTLAND CEMENT DISP",
+        "HMIS": 1013.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MAVOKO",
+        "LOCATION": "SETTLED AREA",
+        "Sub_Locati": "ATHI RIVER TOWNSHIP",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 9.0,
+        "Agency": "PRIV",
+        "Latitude": -1.46361,
+        "Longitude": 36.9784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [275072.506985002604779, 9838125.379932422190905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 95.0,
+        "F_NAME": "ATHI RIVER NURSING HOME",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MAVOKO",
+        "LOCATION": "SETTLED AREA",
+        "Sub_Locati": "ATHI RIVER TOWNSHIP",
+        "Spatial_Re": "SUBLOC CENTROID",
+        "Facility_T": 7.0,
+        "Agency": "PRIV",
+        "Latitude": -1.484019,
+        "Longitude": 36.987572
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [276095.466156529670116, 9835869.075893480330706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 96.0,
+        "F_NAME": "CHRIST THE KING NURSING HOME",
+        "HMIS": 2287.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "EASTLEIGH",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 7.0,
+        "Agency": "PRIV",
+        "Latitude": -1.51643,
+        "Longitude": 37.26828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [307340.465268467320129, 9832311.462797233834863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 97.0,
+        "F_NAME": "DONYOSABUK NURSING HOME",
+        "HMIS": 246.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "KYANZAVI",
+        "Sub_Locati": "KIBOKO(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 7.0,
+        "Agency": "PRIV",
+        "Latitude": -1.08526,
+        "Longitude": 37.2518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [305473.404345124261454, 9879989.796239307150245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 100.0,
+        "F_NAME": "MATUU NURSING HOME",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MATUU",
+        "Sub_Locati": "MATUU(YATTA)",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 7.0,
+        "Agency": "PRIV",
+        "Latitude": -1.142871,
+        "Longitude": 37.546969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [338328.545119274756871, 9873637.352255836129189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 102.0,
+        "F_NAME": "NGULUNI NURSING HOME",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "NGULUNI",
+        "Sub_Locati": "NGULUNI(MACHAKOS)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 7.0,
+        "Agency": "PRIV",
+        "Latitude": -1.278378,
+        "Longitude": 37.28018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [308645.505274910887238, 9858636.498425574973226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 103.0,
+        "F_NAME": "TALA MATERNITY CLINIC AND NURSING HOME",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "NGULUNI",
+        "Sub_Locati": "NGULUNI(MACHAKOS)",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 7.0,
+        "Agency": "PRIV",
+        "Latitude": -1.28,
+        "Longitude": 37.28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [308625.591895383666269, 9858457.123096577823162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 106.0,
+        "F_NAME": "BETHANY HOSPITAL",
+        "HMIS": 1036.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "EASTLEIGH",
+        "Spatial_Re": "HD MAPS",
+        "Facility_T": 5.0,
+        "Agency": "PRIV",
+        "Latitude": -1.5205,
+        "Longitude": 37.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [307532.23964279028587, 9831861.549172284081578]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 107.0,
+        "F_NAME": "CANAAN MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MAVOKO",
+        "LOCATION": "SETTLED AREA",
+        "Sub_Locati": "ATHI RIVER NORTH",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.445688,
+        "Longitude": 36.905714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [266979.908717209764291, 9840100.217662453651428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 108.0,
+        "F_NAME": "CENTRAL MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANGUNDO",
+        "Sub_Locati": "MUISUNI",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.298303,
+        "Longitude": 37.355084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316983.421722998667974, 9856438.725702567026019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 109.0,
+        "F_NAME": "CRESCENT MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUMBUNI",
+        "Sub_Locati": "MUNGALA",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.48,
+        "Longitude": 37.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [307528.698145198926795, 9836340.099164897575974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 110.0,
+        "F_NAME": "DAWA MEDICAL CENTRE",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MAVOKO",
+        "LOCATION": "SETTLED AREA",
+        "Sub_Locati": "ATHI RIVER TOWNSHIP",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.45,
+        "Longitude": 36.98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [275249.250826104194857, 9839630.804612228646874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 111.0,
+        "F_NAME": "DIGITAL MEDICAL CENTRE",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANGUNDO",
+        "Sub_Locati": "MUISUNI",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.32,
+        "Longitude": 37.35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316419.187834693584591, 9854039.173558596521616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 112.0,
+        "F_NAME": "DR. A. K. SHAH'S CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "TALA",
+        "Sub_Locati": "KYAUME",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.266418,
+        "Longitude": 37.321387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [313230.846773300901987, 9859962.050481850281358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 113.0,
+        "F_NAME": "DR. BIPIN M. PATEL'S CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "EASTLEIGH",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.516996,
+        "Longitude": 37.260887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [306517.766571125015616, 9832248.213687591254711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 124.0,
+        "F_NAME": "IKOMBE MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "IKOMBE",
+        "Sub_Locati": "IKOMBE",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.28874,
+        "Longitude": 37.6765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [352751.419520710827783, 9857517.012257164344192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 127.0,
+        "F_NAME": "KATHIANI MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "KATHIANI",
+        "Sub_Locati": "KATHIANI(MACHAKOS)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.40991,
+        "Longitude": 37.33333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [314570.832708479370922, 9844095.893590327352285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 129.0,
+        "F_NAME": "KATHOME MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KAKUYUNI",
+        "Sub_Locati": "KATHOME",
+        "Spatial_Re": "SUBLOC CENTROID",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.377716,
+        "Longitude": 37.364157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [317999.034020696068183, 9847658.211342165246606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 130.0,
+        "F_NAME": "KINYUI DISP",
+        "HMIS": 964.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "TALA",
+        "Sub_Locati": "KATINE",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 4.0,
+        "Agency": "PRIV",
+        "Latitude": -1.27,
+        "Longitude": 37.32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [313076.736289460444823, 9859565.858646029606462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 132.0,
+        "F_NAME": "KITHYOKO MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MASINGA",
+        "LOCATION": "KITHYOKO",
+        "Sub_Locati": "KITHYOKO",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.044519,
+        "Longitude": 37.839793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [370910.442119448271114, 9884525.310276394709945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 134.0,
+        "F_NAME": "KYEVALUKI MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "VYULYA",
+        "Sub_Locati": "VYULYA",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.42,
+        "Longitude": 37.37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [318652.540560224209912, 9842983.074184300377965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 139.0,
+        "F_NAME": "MACHAKOS MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUMBUNI",
+        "Sub_Locati": "LOWER KIANDANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.515176,
+        "Longitude": 37.247723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [305052.606460169190541, 9832448.29236544854939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 143.0,
+        "F_NAME": "MATUU MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "KOMA ROCK",
+        "Sub_Locati": "MATUU(MATUNGULU)",
+        "Spatial_Re": "SUBLOC CENTROID",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.236205,
+        "Longitude": 37.217137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [301625.650072974385694, 9863295.388765621930361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 144.0,
+        "F_NAME": "MATUU MODERN CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MATUU",
+        "Sub_Locati": "MATUU(YATTA)",
+        "Spatial_Re": "SUBLOC CENTROID",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.136476,
+        "Longitude": 37.550644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [338737.175932897021994, 9874344.628922499716282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 145.0,
+        "F_NAME": "MBIUNI MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MWALA",
+        "LOCATION": "MBIUNI",
+        "Sub_Locati": "MBIUNI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.242343,
+        "Longitude": 37.403604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [322379.455555765191093, 9862629.894728843122721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 148.0,
+        "F_NAME": "MUNYU CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "KYANZAVI",
+        "Sub_Locati": "UAMANI",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.12,
+        "Longitude": 37.302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [311063.145574589841999, 9876151.454883120954037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 149.0,
+        "F_NAME": "MUTITUNI MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "MITABONI",
+        "Sub_Locati": "THINU",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.43,
+        "Longitude": 37.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [307524.457772079214919, 9841869.171177072450519]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 151.0,
+        "F_NAME": "NZAINI DISP",
+        "HMIS": 4706.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATTA",
+        "LOCATION": "MAVOLONI",
+        "Sub_Locati": "KISIIKI",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 4.0,
+        "Agency": "PRIV",
+        "Latitude": -1.07,
+        "Longitude": 37.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [325306.572643431718461, 9881688.009031662717462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 156.0,
+        "F_NAME": "ST. LUKE'S MEDICAL CENTRE LABORATORY SERVICES",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "MATUNGULU",
+        "LOCATION": "NGULUNI",
+        "Sub_Locati": "TALA/KITHIMANI",
+        "Spatial_Re": "SUBLOC CENTROID",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.2552,
+        "Longitude": 37.260499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [306453.319535189424641, 9861198.088605402037501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 159.0,
+        "F_NAME": "TUMAINI MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KANGUNDO",
+        "LOCATION": "KANGUNDO",
+        "Sub_Locati": "NDUNDUNE",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.259647,
+        "Longitude": 37.355422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [317018.299376962415408, 9860713.191808780655265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 161.0,
+        "F_NAME": "WAMUNYU MEDICAL CLINIC",
+        "HMIS": 0.0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "YATHUI",
+        "LOCATION": "WAMUNYU",
+        "Sub_Locati": "KAMBITI(MACHAKOS)",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.406159,
+        "Longitude": 37.562945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [340122.73499031260144, 9844527.658529035747051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 0.0,
+        "F_NAME": null,
+        "HMIS": 0.0,
+        "Province": null,
+        "District": null,
+        "Division": null,
+        "LOCATION": null,
+        "Sub_Locati": null,
+        "Spatial_Re": "GPS",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.70313,
+        "Longitude": 37.34761
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316185.438362666638568, 9811673.611987963318825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 0.0,
+        "F_NAME": null,
+        "HMIS": 0.0,
+        "Province": null,
+        "District": null,
+        "Division": null,
+        "LOCATION": null,
+        "Sub_Locati": null,
+        "Spatial_Re": "GPS",
+        "Facility_T": 6.0,
+        "Agency": "PRIV",
+        "Latitude": -1.70385,
+        "Longitude": 37.34675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [316089.812186412280425, 9811593.914274780079722]
+      }
+    }
+  ]
