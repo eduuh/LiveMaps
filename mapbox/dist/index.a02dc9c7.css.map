@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["css/custom.css"],"sourcesContent":["#map {\n    position: absolute; \n    top: 10%; \n    bottom: 10%; \n    width: 100%; \n    z-index: 0;\n}"],"names":[],"version":3,"file":"index.a02dc9c7.css.map","sourceRoot":"/__parcel_source_root/"}
