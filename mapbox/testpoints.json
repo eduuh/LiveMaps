@@ -1,0 +1,337 @@
+{
+  "type": "FeatureCollection",
+  "name": "schooltest",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.26088700000063, -1.516996]
+      },
+      "_id": "6162a30765b0d495caae1672",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 113,
+        "F_NAME": "DR. BIPIN M. PATEL'S CLINIC",
+        "HMIS": 0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "EASTLEIGH",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 6,
+        "Agency": "PRIV",
+        "Latitude": -1.516996,
+        "Longitude": 37.260887,
+        "_id": "6162a30765b0d495caae1673"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.263212000000664, -1.513232]
+      },
+      "_id": "6162a30765b0d495caae15fe",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 48,
+        "F_NAME": "MACHAKOS APPROVED SCHOOL DISP",
+        "HMIS": 934,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "MJINI(MACHAKOS)",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4,
+        "Agency": "MOH",
+        "Latitude": -1.513232,
+        "Longitude": 37.263212,
+        "_id": "6162a30765b0d495caae15ff"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.268280000000644, -1.51643]
+      },
+      "_id": "6162a30765b0d495caae165a",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 96,
+        "F_NAME": "CHRIST THE KING NURSING HOME",
+        "HMIS": 2287,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "EASTLEIGH",
+        "Spatial_Re": "ILRI MKT CENTRE",
+        "Facility_T": 7,
+        "Agency": "PRIV",
+        "Latitude": -1.51643,
+        "Longitude": 37.26828,
+        "_id": "6162a30765b0d495caae165b"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.26928000000062, -1.51643]
+      },
+      "_id": "6162a30765b0d495caae15a6",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 1,
+        "F_NAME": "BISHOP U. KIOKO CATHOLIC HOSPITAL",
+        "HMIS": 0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "EASTLEIGH",
+        "Spatial_Re": "ILRI MKT CENTRES",
+        "Facility_T": 1,
+        "Agency": "MISS",
+        "Latitude": -1.51643,
+        "Longitude": 37.26928,
+        "_id": "6162a30765b0d495caae15a7"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.27000000000062, -1.5205]
+      },
+      "_id": "6162a30765b0d495caae1664",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 106,
+        "F_NAME": "BETHANY HOSPITAL",
+        "HMIS": 1036,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MASAKU",
+        "Sub_Locati": "EASTLEIGH",
+        "Spatial_Re": "HD MAPS",
+        "Facility_T": 5,
+        "Agency": "PRIV",
+        "Latitude": -1.5205,
+        "Longitude": 37.27,
+        "_id": "6162a30765b0d495caae1665"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.247723000000704, -1.515176]
+      },
+      "_id": "6162a30765b0d495caae1680",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 139,
+        "F_NAME": "MACHAKOS MEDICAL CLINIC",
+        "HMIS": 0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUMBUNI",
+        "Sub_Locati": "LOWER KIANDANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 6,
+        "Agency": "PRIV",
+        "Latitude": -1.515176,
+        "Longitude": 37.247723,
+        "_id": "6162a30765b0d495caae1681"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.26323200000067, -1.502321]
+      },
+      "_id": "6162a30765b0d495caae1600",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 49,
+        "F_NAME": "MACHAKOS DISTRICT HOSPITAL",
+        "HMIS": 1040,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUMBUNI",
+        "Sub_Locati": "UPPER KIANDANI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 1,
+        "Agency": "MOH",
+        "Latitude": -1.502321,
+        "Longitude": 37.263232,
+        "_id": "6162a30765b0d495caae1601"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.25311300000067, -1.542321]
+      },
+      "_id": "6162a30765b0d495caae15d4",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 25,
+        "F_NAME": "KATUMANI DISP",
+        "HMIS": 3564,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "KIIMA KIMWE",
+        "Sub_Locati": "KATOLONI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4,
+        "Agency": "MOH",
+        "Latitude": -1.542321,
+        "Longitude": 37.253113,
+        "_id": "6162a30765b0d495caae15d5"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.27000000000062, -1.48]
+      },
+      "_id": "6162a30765b0d495caae166a",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 109,
+        "F_NAME": "CRESCENT MEDICAL CLINIC",
+        "HMIS": 0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUMBUNI",
+        "Sub_Locati": "MUNGALA",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 6,
+        "Agency": "PRIV",
+        "Latitude": -1.48,
+        "Longitude": 37.27,
+        "_id": "6162a30765b0d495caae166b"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.29920000000056, -1.4753]
+      },
+      "_id": "6162a30765b0d495caae15d6",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 26,
+        "F_NAME": "KAVIANI HEALTH CENTRE",
+        "HMIS": 1022,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "IVETI",
+        "Sub_Locati": "KALILUNI(MACHAKOS)",
+        "Spatial_Re": "DSA/DFH(MOH)-UNFPA REPORT",
+        "Facility_T": 3,
+        "Agency": "MOH",
+        "Latitude": -1.4753,
+        "Longitude": 37.2992,
+        "_id": "6162a30765b0d495caae15d7"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.253232000000644, -1.442132]
+      },
+      "_id": "6162a30765b0d495caae1630",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 73,
+        "F_NAME": "MUTITU DISP",
+        "HMIS": 1002,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "MUTITUNI",
+        "Sub_Locati": "MUTITUNI",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4,
+        "Agency": "MOH",
+        "Latitude": -1.442132,
+        "Longitude": 37.253232,
+        "_id": "6162a30765b0d495caae1631"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.27000000000062, -1.43]
+      },
+      "_id": "6162a30765b0d495caae168a",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 149,
+        "F_NAME": "MUTITUNI MEDICAL CLINIC",
+        "HMIS": 0,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "KATHIANI",
+        "LOCATION": "MITABONI",
+        "Sub_Locati": "THINU",
+        "Spatial_Re": "ILRI VILLAGES",
+        "Facility_T": 6,
+        "Agency": "PRIV",
+        "Latitude": -1.43,
+        "Longitude": 37.27,
+        "_id": "6162a30765b0d495caae168b"
+      },
+      "__v": 0
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.17232100000093, -1.512321]
+      },
+      "_id": "6162a30765b0d495caae15e6",
+      "type": "Feature",
+      "properties": {
+        "Facility_N": 34,
+        "F_NAME": "KITANGANI DISP",
+        "HMIS": 4701,
+        "Province": "EASTERN",
+        "District": "MACHAKOS",
+        "Division": "CENTRAL",
+        "LOCATION": "KATHEKA KAI",
+        "Sub_Locati": "KITANGA",
+        "Spatial_Re": "1:50000 MAPS",
+        "Facility_T": 4,
+        "Agency": "MOH",
+        "Latitude": -1.512321,
+        "Longitude": 37.172321,
+        "_id": "6162a30765b0d495caae15e7"
+      },
+      "__v": 0
+    }
+  ]
+}

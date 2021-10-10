@@ -56,58 +56,15 @@ map.on("mouseenter", "states-layer", () => {
 })
 
 map.on("load", function () {
-  map.addSource("kiambu", {
+  map.addSource("machakos", {
     type: "geojson",
     data: "https://raw.githubusercontent.com/eduuh/mapboxsearch/master/mapbox/machashapefile.json?token=AHTOOWXSQ6VTV3YTLLXKJL3BNNBAU",
   })
 
-  const coordinatesGeocoder = function (query) {
-    // Match anything which looks like
-    // decimal degrees coordinate pair.
-    const matches = query.match(
-      /^[ ]*(?:Lat: )?(-?\d+\.?\d*)[, ]+(?:Lng: )?(-?\d+\.?\d*)[ ]*$/i
-    )
-    if (!matches) {
-      return null
-    }
-
-    function coordinateFeature(lng, lat) {
-      return {
-        center: [lng, lat],
-        geometry: {
-          type: "Point",
-          coordinates: [lng, lat],
-        },
-        place_name: "Lat: " + lat + " Lng: " + lng,
-        place_type: ["coordinate"],
-        properties: {},
-        type: "Feature",
-      }
-    }
-
-    const coord1 = Number(matches[1])
-    const coord2 = Number(matches[2])
-    const geocodes = []
-
-    if (coord1 < -90 || coord1 > 90) {
-      // must be lng, lat
-      geocodes.push(coordinateFeature(coord1, coord2))
-    }
-
-    if (coord2 < -90 || coord2 > 90) {
-      // must be lat, lng
-      geocodes.push(coordinateFeature(coord2, coord1))
-    }
-
-    if (geocodes.length === 0) {
-      // else could be either lng, lat or lat, lng
-      geocodes.push(coordinateFeature(coord1, coord2))
-      geocodes.push(coordinateFeature(coord2, coord1))
-    }
-
-    return geocodes
-  }
-
+  map.addSource("hospitals", {
+    type: "geojson",
+    data: "https://mapboxsearch.azurewebsites.net/datasource/hospitals?distance=10000&longitude=37.26&latitude=-1.51543",
+  })
   map.addControl(
     new MapboxGeocoder({
       accessToken: mapboxgl.accessToken,
@@ -121,9 +78,9 @@ map.on("load", function () {
   )
 
   map.addLayer({
-    id: "kiambu",
+    id: "machakos",
     type: "fill",
-    source: "kiambu",
+    source: "machakos",
     layout: {},
     paint: {
       "fill-outline-color": "#FF0000",
@@ -131,4 +88,55 @@ map.on("load", function () {
       "fill-opacity": 0.2,
     },
   })
+
+  map.addLayer({
+    id: "hospitallayer",
+    type: "circle",
+    source: "hospitals",
+  })
 })
+
+const coordinatesGeocoder = function (query) {
+  const matches = query.match(
+    /^[ ]*(?:Lat: )?(-?\d+\.?\d*)[, ]+(?:Lng: )?(-?\d+\.?\d*)[ ]*$/i
+  )
+  if (!matches) {
+    return null
+  }
+
+  function coordinateFeature(lng, lat) {
+    return {
+      center: [lng, lat],
+      geometry: {
+        type: "Point",
+        coordinates: [lng, lat],
+      },
+      place_name: "Lat: " + lat + " Lng: " + lng,
+      place_type: ["coordinate"],
+      properties: {},
+      type: "Feature",
+    }
+  }
+
+  const coord1 = Number(matches[1])
+  const coord2 = Number(matches[2])
+  const geocodes = []
+
+  if (coord1 < -90 || coord1 > 90) {
+    // must be lng, lat
+    geocodes.push(coordinateFeature(coord1, coord2))
+  }
+
+  if (coord2 < -90 || coord2 > 90) {
+    // must be lat, lng
+    geocodes.push(coordinateFeature(coord2, coord1))
+  }
+
+  if (geocodes.length === 0) {
+    // else could be either lng, lat or lat, lng
+    geocodes.push(coordinateFeature(coord1, coord2))
+    geocodes.push(coordinateFeature(coord2, coord1))
+  }
+
+  return geocodes
+}
