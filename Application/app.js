@@ -6,9 +6,11 @@ var favicon = require("serve-favicon")
 var logger = require("morgan")
 var cookieParser = require("cookie-parser")
 var bodyParser = require("body-parser")
+const mongoose = require("mongoose")
 
 var routes = require("./routes/index")
 var users = require("./routes/users")
+var datasource = require("./routes/datasource")
 
 var appInsights = require("applicationinsights")
 if (process.env.NODE_ENV == "production") {
@@ -19,6 +21,23 @@ if (process.env.NODE_ENV == "production") {
 var server
 var app = express()
 
+require("dotenv/config")
+// cnnect to mongodb
+function mongoConnect() {
+  try {
+    mongoose.connect(
+      process.env.Db_connection,
+      { useNewUrlParser: true },
+      () => {
+        console.log("connected to db!")
+      }
+    )
+  } catch (err) {
+    console.log(err)
+  }
+}
+
+mongoConnect()
 // view engine setup
 app.set("views", path.join(__dirname, "views"))
 app.set("view engine", "pug")
@@ -33,6 +52,7 @@ app.use(express.static(path.join(__dirname, "public")))
 
 app.use("/", routes)
 app.use("/users", users)
+app.use("/datasource", datasource)
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
@@ -69,7 +89,7 @@ app.set("port", process.env.PORT || 3000)
 
 exports.listen = function () {
   server = app.listen(app.get("port"), function () {
-    debug("Express server listening on port " + server.address().port)
+    console.log("Express server listening on port " + server.address().port)
   })
 }
 
